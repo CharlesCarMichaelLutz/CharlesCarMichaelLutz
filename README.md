@@ -17,7 +17,7 @@ I'm Charles Lutz a software developer passionate about public blockchains and ho
 ```js
 const skills = {
     languages: ['JavaScript', 'C#', 'TypeScript'],
-    frameworks: ['React','.NET Core','Gatsby'],
+    frameworks: ['React','.NET Core'],
     platforms: ['GitHub', 'Docker', 'Azure']
 };
 ```
