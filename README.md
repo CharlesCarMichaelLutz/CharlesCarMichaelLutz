@@ -48,5 +48,6 @@ Website that implements and displays searchable Star Wars character data
 
 [](https://github.com/CharlesCarMichaelLutz/CharlesCarMichaelLutz#-connect-with-me)
 
+- **Portfolio**: [https://charlescarmichaellutz.github.io/](https://charlescarmichaellutz.github.io/)
 - **LinkedIn**: [in/charlescarmichaellutz](https://www.linkedin.com/in/charlescarmichaellutz/)
 - **Email**: [superb.engineer.2ng3u@aleeas.com](mailto:superb.engineer.2ng3u@aleeas.com)
